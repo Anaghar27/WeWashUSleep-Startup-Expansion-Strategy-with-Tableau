@@ -92,7 +92,7 @@ Includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anaghar27/WeWashUSleep-Startup-Expansion-Strategy-with-Tableau.git
-   cd wewashusleep-expansion-dashboard
+   cd WeWashUSleep-Startup-Expansion-Strategy-with-Tableau
 
 2. Open the Tableau workbook:
 - File: WeWashUSleep_Visualizations.twbx
